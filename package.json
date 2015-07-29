@@ -1,0 +1,16 @@
+{
+  "name": "easicalc",
+  "verion": "b001",
+  "window": {
+    "toolbar": false,
+    "width": 360,
+    "height": 640,
+    "min_width": 360,
+    "min_height": 640,
+    "max_width": 360,
+    "max_height": 640,
+    "icon": "img/icon.png",
+    "position": "center"
+  },
+  "main": "index.html"
+}
